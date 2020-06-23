@@ -70,7 +70,7 @@
                 <li><a href="category.html">Camera</a></li>
                 <li><a href="category.html">Food</a></li>
                 <li><a href="category.html">Tech</a></li>
-                <li><a href="logout.php">Logout</a></li>
+                <li><a href="Signout.php">Logout</a></li>
                 <li class="d-none d-lg-inline-block"><a href="#" class="js-search-toggle"><span class="icon-search"></span></a></li>
               </ul>
             </nav>
